@@ -1,0 +1,9 @@
+{
+  "NoPermission": "{red} 你没有使用该命令的权限！",
+  "Cooldown": "{red} 选项正在冷却中",
+  "Selected": "{default} 已选择：{lime}{0}",
+
+  "ConfirmTitle": "确定吗？",
+  "ConfirmAccept": "是",
+  "ConfirmDecline": "否"
+}
